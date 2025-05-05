@@ -1,6 +1,5 @@
 #include <iostream>
-
-
+/enes
 int main(){
 aynen kankaaa
 
